@@ -4,7 +4,7 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ramium"
 
-title = "Aroong's Blog"
+title = "Aroong"
 disqusShortname = ""
 googleAnalytics = ""
 summaryLength = 40
