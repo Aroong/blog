@@ -1,22 +1,26 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://example.com"
+#CanonifyURLs=true
 
+languageCode = "en-us"
 theme = "ramium"
-disqusShortname = "disqus-code"
-googleAnalytics = "analytics-code"
+
+title = "Aroong's Blog"
+disqusShortname = ""
+googleAnalytics = ""
+summaryLength = 40
 pluralizeListTitles = false
 enableemoji = false
 
 [params]
     description = "A description for the meta tag of the site"
-    googleSearch = "google-search-code"
-    showDate = true # make false if dont want to show date for evergeen articles
+    googleSearch = ""
+    adsense = ""
+    showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
-    githubLink = "rafed/ramium/"
+    githubProfile = "rafed/ramium/"
 
-    tagsInHome = 40     # set zero to not show in home page
-    sectionsInHome = 5  # set zero to not show in home page
+    tagsInHome = 40
+    sectionsInHome = 5
     paginatePostsPerPage = 5
     paginateTagsPerPage = 6
 
@@ -49,10 +53,10 @@ enableemoji = false
             [[menu.main]]
                 parent = "blog"
                 name = "All Posts"
-                url = "/post/"
+                url = "/posts/"
                 weight = 3
     
     [[menu.main]]
         name = "Author"
-        url = "/authorr/"
+        url = "/author/"
         weight = 3
