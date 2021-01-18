@@ -49,7 +49,7 @@ enableemoji = false
             [[menu.main]]
                 parent = "blog"
                 name = "All Posts"
-                url = "/posts/"
+                url = "/post/"
                 weight = 3
     
     [[menu.main]]
