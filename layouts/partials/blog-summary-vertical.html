@@ -4,7 +4,7 @@
         <figure class="media-left">
             <div class="image is-128x128">
                 <!-- <div class="image is-4by3"> -->
-                {{ with .Params.image }}
+                {{ with .Params.image }} 
                 <img src="{{ . | relURL }}">
                 {{ else }}
                 <img src="{{ "/image/default.jpeg" | relURL }}">
@@ -29,16 +29,6 @@
                     <p>{{ .Summary }}</p>
                 </p>
             </div>
-            <div style="margin-top:200px;">
-                <script src="https://utteranc.es/client.js"
-                        repo="Aroong/comments"
-                        issue-term="pathname"
-                        theme="github-light"
-                        crossorigin="anonymous"
-                        async>
-                </script>   
-            </div>
-
             <nav class="level is-mobile">
                 <div class="level-left">
                     <!-- <a class="level-item">
