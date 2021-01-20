@@ -11,5 +11,6 @@ image: "/image/profile.png"
 
 이미지 여러개 쓸수있나요 
 
+---
 image: "/image/mm_playmobile.png"
-
+---
