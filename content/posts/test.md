@@ -11,4 +11,4 @@ image: "/image/profile.png"
 
 이미지 여러개 쓸수있나요 
 
-< figure src="/image/mm_playmobile.png" caption="플레이모빌 머리 쥐어뜯는 묘묘" title="플레이모빌과 묘묘">
+{ {< figure src="/image/mm_playmobile.png" caption="Caption: Original resolution is 1880x1253" title="Title: Sky">}}
