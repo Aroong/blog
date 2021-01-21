@@ -7,10 +7,8 @@ tags: ["신기하네"]
 안녕하세요!!
 테스트 페이지 입니다.
 
+shortcode 사용하기
 
-이미지 여러개 쓸수있나요 
+{{< local-img src="/image/mm_playmobile.png" caption="플레이모빌 머리를 주뜯고있는 묘묘" >}}
 
-<p align="left">
-  <img src="/image/mm_playmobile.png" alt="묘묘"/>
-</p>
 
