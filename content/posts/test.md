@@ -12,3 +12,4 @@ image: "/image/profile.png"
 이미지 여러개 쓸수있나요 
 
 ![그림설명](/image/mm_playmobile.png)
+\caption{플모 머리끄댕이 주뜯는 묘묘}
