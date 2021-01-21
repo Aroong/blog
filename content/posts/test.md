@@ -2,7 +2,6 @@
 title: "Test"
 date: 2021-01-18T13:32:12+09:00
 tags: ["신기하네"]
-image: "/image/profile.png"
 ---
 
 안녕하세요!!
@@ -11,7 +10,7 @@ image: "/image/profile.png"
 
 이미지 여러개 쓸수있나요 
 
-<p align="center">
+<p align="left">
   <img src="/image/mm_playmobile.png" alt="묘묘"/>
 </p>
 
